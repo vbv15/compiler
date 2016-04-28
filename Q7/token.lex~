@@ -1,0 +1,20 @@
+%{
+	#include<stdio.h>
+%}
+%%
+a|ab|abc|abcd ECHO;
+printf("\n");
+REJECT;
+.	printf("%c", *yytext);
+\n	printf("%c", *yytext);
+%%
+
+int yywrap() {
+	return 1;
+}
+
+int main() {
+	printf("The input is\n");
+	yylex();
+	return 0;
+}

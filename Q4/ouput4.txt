@@ -1,0 +1,32 @@
+Single line  comment 
+Header File : #include<iostream.h>
+Keyword Data type : Integer 
+Identifier : main
+Keyword Data type : Float 
+Identifier : a
+Airthmetic Operator  : Assignment 
+Floating point number  : 34234.345
+Keyword Data type : Integer 
+Identifier : b
+Airthmetic Operator  : Assignment 
+Integer number  : 500
+,Keyword Data type : Integer 
+Identifier : lex
+Airthmetic Operator  : Assignment 
+Integer number  : 123
+Keyword Data type : Integer 
+Identifier : i
+Airthmetic Operator  : Assignment 
+Integer number  : 0
+Keyword : While loop 
+Identifier : i
+Relational Operator  : Less than equalto 
+Integer number  : 6
+Identifier : i
+Airthmetic Operator  : Assignment 
+Identifier : i
+Airthmetic Operator  : plus 
+Integer number  : 3
+Multiple line comment 
+total number of s comments: 1
+total number of m comments: 1

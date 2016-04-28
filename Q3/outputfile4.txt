@@ -1,0 +1,2 @@
+   .
+The maximum length of word is: 7
