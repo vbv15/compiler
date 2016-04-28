@@ -10,11 +10,7 @@ Program: Lines Program
        |
        ;
 Lines: AS X BS '\n' {printf("Word belongs to the language (a^nb^n)\n");}
-     | error '\n'
-       {
-        yyerrok;
-       }
-     ;
+       ;
 X : AS X BS {;}
   |
   ;
